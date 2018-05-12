@@ -1,0 +1,40 @@
+_repo: Van-Schooljongen-tot-Koning--13-Een-verhaal-samengesteld-uit-de-aanteekeningen-van-Robert-I-k__17593
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sluijters, Jan
+    alias: Sluyters, Jan
+    birthdate: 1881
+    deathdate: 1957
+    gutenberg_agent_id: '8316'
+    url: http://www.gutenberg.org/2009/agents/8316
+    wikipedia: http://www.kunstbus.nl/verklaringen/jan+sluyters.html
+covers:
+- cover_type: archival
+  image_path: 17593-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bertrand, A. [Pseudonym.]
+    aliases:
+    - Tersteeg, Johan
+    - Tersteeg, J.
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '7479'
+    url: http://www.gutenberg.org/2009/agents/7479
+    wikipedia: http://www.schenkt.nl/tersteeg.htm
+description: ''
+gutenberg_issued: '2006-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17593'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Van Schooljongen tot Koning\r\nEen verhaal samengesteld uit de aanteekeningen\
+  \ van Robert I, koning van Czernovië"
+url: http://www.gutenberg.org/ebooks/17593
