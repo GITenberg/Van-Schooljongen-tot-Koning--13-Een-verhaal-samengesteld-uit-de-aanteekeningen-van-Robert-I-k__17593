@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7479
     wikipedia: http://www.schenkt.nl/tersteeg.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17593#Van-Schooljongen-tot-Koning--13-Een-verhaal-samengesteld-uit-de-aanteekeningen-van-Robert-I-k_
 gutenberg_issued: '2006-01-24'
 gutenberg_type: Text
 identifiers:
